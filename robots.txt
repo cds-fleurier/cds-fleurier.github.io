@@ -1,0 +1,9 @@
+# Outils privés de la team 0 to 100 : pas d'indexation par les moteurs de recherche.
+# (Un robots.txt n'est lu qu'à la racine du domaine : celui-ci couvre tous les sites du compte.)
+User-agent: *
+Disallow: /0to100-hub/
+Disallow: /calendar-0-to-100-app/
+Disallow: /carte-participants-0to100/
+Disallow: /qui-court-ou-0to100/
+Disallow: /0to100-session-player-app/
+Disallow: /antonin-gpt/
